@@ -23,10 +23,8 @@
   "homepage": "https://github.com/DisNetwork/Ent.js#readme",
   "dependencies": {
     "commander": "^2.19.0",
-    "socket.io-client": "^2.2.0"
+    "socket.io-client": "^2.2.0",
+    "uuid": "^3.3.2"
   },
-  "devDependencies": {
-    "@types/commander": "^2.12.2",
-    "@types/socket.io-client": "^1.4.32"
-  }
+  "devDependencies": {}
 }
