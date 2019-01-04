@@ -1,0 +1,24 @@
+{
+  "name": "entjs",
+  "version": "0.0.0",
+  "description": "An javascript library that contacts with the DisNetwork platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DisNetwork/Ent.js.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Discord",
+    "DisNetwork"
+  ],
+  "author": "iHDeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DisNetwork/Ent.js/issues"
+  },
+  "homepage": "https://github.com/DisNetwork/Ent.js#readme"
+}
